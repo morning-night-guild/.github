@@ -10,7 +10,7 @@
 
 ## [platform-web](https://github.com/morning-night-guild/platform-web)
 
-[![](https://skillicons.dev/icons?i=ts,react,vercel,vite,githubactions)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,react,vite,vercel,githubactions)](https://skillicons.dev)
 
 ## [platform-func](https://github.com/morning-night-guild/platform-func)
 
